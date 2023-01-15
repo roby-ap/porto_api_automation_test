@@ -18,7 +18,7 @@ const pass_true = "belajarmocha";
 const pass_false = "asdasdasd";
 const statusCode_ok = 200;
 const statusCode_mna = 405;
-const statusCode_420 = 422;
+const statusCode_420 = 420;
 const statusCode_ise = 500;
 
 describe("Login Feature", function () { 
